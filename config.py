@@ -21,3 +21,5 @@ dedup_keys = {
 BRONZE_BASE_PATH = "/Volumes/workspace/bronze"
 SILVER_BASE_PATH = "/Volumes/workspace/silver"
 GOLD_BASE_PATH = "/Volumes/workspace/gold"
+
+# config updated
